@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <rotator>
+         <panel>
+    <number>JP Disposal Ad</number>
+    <image>https://github.com/kbif900/App/blob/main/640x400_03_Hmong.jpg?raw=true</image>
+    <url></url>
+    <redirect></redirect>
+  </panel>
       <panel>
     <number>JP Disposal Ad</number>
     <image>https://github.com/kbif900/App/blob/main/640x400_03_Hmong.jpg?raw=true</image>
