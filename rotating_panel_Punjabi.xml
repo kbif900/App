@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <rotator>
+     
+       <panel>
+    <number>City of Fresno</number>
+    <image> https://github.com/kbif900/App/blob/main/PunjabiBanner_CityofFresno.png?raw=true</image>
+    <url></url>
+    <redirect></redirect>
+  </panel>
+    
      <panel>
     <number>Table MountainC Casino TBD</number>
     <image>https://github.com/kbif900/App/blob/main/AppBanner_TMC_PackItUp_220601_640x400.jpg?raw=true</image>
