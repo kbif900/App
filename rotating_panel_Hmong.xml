@@ -13,24 +13,14 @@
     <url></url>
     <redirect></redirect>
   </panel>
-         <panel>
-    <number>BFF Ad</number>
-    <image>https://github.com/kbif900/App/blob/main/AppBanner_BFF.jpg?raw=true</image>
-    <url></url>
-    <redirect></redirect>
-  </panel>
+        
          <panel>
     <number>JP Disposal Ad</number>
     <image>https://github.com/kbif900/App/blob/main/640x400_03_Hmong.jpg?raw=true</image>
     <url></url>
     <redirect></redirect>
   </panel>
-      <panel>
-    <number>JP Disposal Ad</number>
-    <image>https://github.com/kbif900/App/blob/main/640x400_03_Hmong.jpg?raw=true</image>
-    <url></url>
-    <redirect></redirect>
-  </panel>
+     
    
      <panel>
     <number>JP Disposal Ad</number>
@@ -53,16 +43,7 @@
     <url></url>
     <redirect>n</redirect>
   </panel>
-     
-    
-     <panel>
-    <number>County of Merced</number>
-    <image>https://github.com/kbif900/App/blob/main/AppBanner_HmongCOM.jpg?raw=true</image>
-    <url>https://myturn.ca.gov/</url>
-    <redirect>n</redirect>
-  </panel>
-    
-   
+  
     
        <panel>
     <number>JP Disposal Ad</number>
