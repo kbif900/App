@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <rotator>
-     
+     <panel>
+    <number>City of Fresno</number>
+    <image>https://github.com/kbif900/App/blob/main/CDPRMobileAppBanner.jpg?raw=true</image>
+    <url></url>
+    <redirect></redirect>
+  </panel>
        <panel>
     <number>City of Fresno</number>
     <image> https://github.com/kbif900/App/blob/main/PunjabiBanner_CityofFresno.png?raw=true</image>
@@ -25,16 +30,6 @@
     <redirect></redirect>
   </panel>
 
- 
-     <panel>
-    <number>County of Merced</number>
-    <image>https://github.com/kbif900/App/blob/main/AppBanner_COM_Punjabi.jpg?raw=true</image>
-    <url>https://myturn.ca.gov/</url>
-    <redirect>n</redirect>
-  </panel>
-    
- 
-   
      <panel>
     <number>MEASURE C</number>
     <image>https://github.com/kbif900/App/blob/main/MEASUREC.jpg?raw=true</image>
