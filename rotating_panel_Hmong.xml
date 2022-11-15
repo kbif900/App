@@ -2,7 +2,7 @@
 
 <rotator>
           <panel>
-    <number>City of Fresno</number>
+    <number>CDPR</number>
     <image>https://github.com/kbif900/App/blob/main/CDPRMobileAppBanner.jpg?raw=true</image>
     <url></url>
     <redirect></redirect>
@@ -15,7 +15,7 @@
   </panel>
         
          <panel>
-    <number>JP Disposal Ad</number>
+    <number>PGE</number>
     <image>https://github.com/kbif900/App/blob/main/640x400_03_Hmong.jpg?raw=true</image>
     <url></url>
     <redirect></redirect>
@@ -26,13 +26,6 @@
     <number>JP Disposal Ad</number>
     <image>https://github.com/kbif900/App/blob/main/JP_Batteries_640x400_Hmong.jpg?raw=true</image>
     <url></url>
-    <redirect></redirect>
-  </panel>
-    
-       <panel>
-    <number>Table MountainC Casino TBD</number>
-    <image>https://github.com/kbif900/App/blob/main/AppBanner_TMC_PackItUp_220601_640x400.jpg?raw=true</image>
-    <url>https://www.tmcasino.com</url>
     <redirect></redirect>
   </panel>
     
