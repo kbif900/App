@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <rotator>
+      <panel>
+    <number>Grid Alternatives</number>
+    <image>https://github.com/kbif900/App/blob/main/DigitalBanner_GridAlternatives.jpg?raw=true</image>
+    <url>https://gridalternatives.org/what-we-do/energy-for-all/single-family-solar</url>
+    <redirect></redirect>
+  </panel>
      <panel>
     <number>City of Fresno</number>
     <image>https://github.com/kbif900/App/blob/main/CDPRMobileAppBanner.jpg?raw=true</image>
