@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <rotator>
+     <panel>
+    <number>Heat Campaign</number>
+    <image>https://github.com/kbif900/App/blob/main/BannerAd_heat.jpg?raw=true</image>
+    <url>https://heatreadyca.com/</url>
+    <redirect></redirect>
+  </panel>
     <panel>
     <number>Health Fresno County</number>
     <image>https://github.com/kbif900/App/blob/main/MobileAppBanner_HealthFresnoCounty.jpg?raw=true</image>
