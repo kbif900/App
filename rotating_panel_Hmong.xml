@@ -2,6 +2,12 @@
 
 <rotator>
       <panel>
+    <number>CFPI</number>
+    <image>https://github.com/kbif900/App/blob/main/App_Banner_DFPI_hmong.jpg?raw=true</image>
+    <url></url>
+    <redirect></redirect>
+  </panel>
+      <panel>
     <number>Sierra Nevada Farms</number>
     <image>https://github.com/kbif900/App/blob/main/App_Banner_CAPORK.jpg?raw=true</image>
     <url>https://capork.com/</url>
