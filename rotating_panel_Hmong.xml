@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <rotator>
+        <panel>
+    <number>CFPI</number>
+    <image>https://github.com/kbif900/App/blob/main/AppBannerCommunityHealthCenter.jpg?raw=true</image>
+    <url></url>
+    <redirect></redirect>
+  </panel>
       <panel>
     <number>CFPI</number>
     <image>https://github.com/kbif900/App/blob/main/App_Banner_DFPI_hmong.jpg?raw=true</image>
